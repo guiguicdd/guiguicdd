@@ -26,11 +26,5 @@ Minhas métricas no Github
 
 <br>
   
-Meu nome é Guilherme, Estou a pouco mais de 5 Anos no ramo da programação, com experiência em planejamento e conclusão de projetos. Para mais informações, Entre em contato comigo por aqui mesmo no Github.
-
-- Ensino médio -> Concluído.
-- Português -> Linguagem materna
-- Inglês -> Avançado
-- Espanhol -> Básico
 
   
