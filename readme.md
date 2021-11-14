@@ -17,7 +17,7 @@
   <div style="display: inline_block">
     <img 
        height="200em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiguicdd&layout=compact&theme=dark&hide_border=true&custom_title=Lingugens%20mais%20usadas&count_private=true&hide_title=true"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiguicdd&layout=compact&theme=dark&hide_border=true&custom_title=Lingugens%20mais%20usadas&count_private=true&hide_title=true&bg_color=041db30f&border_radius=10"/>
   </div>  
 </div>
 <br>
