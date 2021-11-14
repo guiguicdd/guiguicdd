@@ -1,7 +1,3 @@
-<a href="https://github.com/guiguicdd">
-    <h1>Opa!</h1>
-  </a>
-
 <div align="center">
   <p align="center">
     <br/>
