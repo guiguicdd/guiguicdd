@@ -61,6 +61,20 @@
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
   />
+  <img
+    align="center"
+    alt="Gui-NextJs"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+  />
+  <img
+    align="center"
+    alt="Gui-ElectronJs"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
+  />
   <br />
   <br />
 </div>
