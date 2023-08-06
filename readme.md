@@ -42,6 +42,13 @@
   />
   <img
     align="center"
+    alt="Gui-tailwindcss"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+  />
+  <img
+    align="center"
     alt="Gui-Python"
     height="30"
     width="40"
