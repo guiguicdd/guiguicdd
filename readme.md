@@ -5,12 +5,12 @@
   width="100%"
 />
 <div align="center">
-  <h1>Eu</h1>
+  <h1>Eu/Me</h1>
   <p>
     <a href="https://oguilherme.eu.org/" target="_blank">oguilherme.eu.org</a>
   </p>
 
-  <h2>Experiências</h2>
+  <h2>Experiências/Experiences</h2>
 
   <img
     align="center"
