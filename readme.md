@@ -45,7 +45,7 @@
     alt="Gui-tailwindcss"
     height="30"
     width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
   />
   <img
     align="center"
